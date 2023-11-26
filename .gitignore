@@ -1,0 +1,9 @@
+.idea
+
+structure-web/target
+
+structure-service/target
+./structure-rpc/target
+./structure-hpc/target
+./structure-export/target
+./structure-common/target

@@ -14,6 +14,7 @@
     <module>structure-service</module>
     <module>structure-rpc</module>
     <module>structure-export</module>
+    <module>structure-hpc</module>
   </modules>
 
   <name>Structure</name>
