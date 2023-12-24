@@ -10,7 +10,9 @@
         <module name="structure-common" />
         <module name="structure-rpc" />
         <module name="structure-web" />
+        <module name="structure-hpc" />
         <module name="structure-service" />
+        <module name="structure-opensource" />
       </profile>
     </annotationProcessing>
   </component>

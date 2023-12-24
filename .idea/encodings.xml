@@ -7,6 +7,10 @@
     <file url="file://$PROJECT_DIR$/structure-common/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/structure-export/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/structure-export/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/structure-hpc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/structure-hpc/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/structure-opensource/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/structure-opensource/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/structure-rpc/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/structure-rpc/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/structure-service/src/main/java" charset="UTF-8" />

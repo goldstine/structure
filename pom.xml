@@ -15,6 +15,7 @@
     <module>structure-rpc</module>
     <module>structure-export</module>
     <module>structure-hpc</module>
+      <module>structure-opensource</module>
   </modules>
 
   <name>Structure</name>
