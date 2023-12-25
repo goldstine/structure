@@ -15,7 +15,7 @@ public interface Sequencer extends Cursored,Sequenced{
 
     long getMinimumSequence();
 
-    long getHeightPublishedSequence(long nextSequence,long availableSequence);
+    long getHighestPublishedSequence(long nextSequence, long availableSequence);
 
     <T> EventPoller<T> newPoller(DataProvider<T> provider,Sequence... gatingSequences);
 }
